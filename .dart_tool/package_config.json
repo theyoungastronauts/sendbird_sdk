@@ -225,9 +225,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/tyler/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "rootUri": "file:///Users/tyler/.pub-cache/hosted/pub.dev/http-1.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "http_multi_server",
@@ -656,7 +656,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2024-05-30T20:15:00.317924Z",
+  "generated": "2024-05-30T20:18:46.563129Z",
   "generator": "pub",
   "generatorVersion": "3.4.1",
   "flutterRoot": "file:///Users/tyler/dev/flutter",
